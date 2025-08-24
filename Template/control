@@ -1,0 +1,8 @@
+Package: com.apple.template
+Name: Template
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Floating ImGui Menu
+Maintainer: Zaraki
+Author: Zaraki
