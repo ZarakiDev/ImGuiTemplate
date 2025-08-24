@@ -28,7 +28,7 @@ A lightweight and easy to use **ImGui floating menu template** for iOS, designed
 
 ### Using Xcode
 
-1. Open `Template.xcodeproj` in Xcode.  
-2. Ensure the project is set to use **C++23 or below**.  
-3. Set target to `Any iOS Device (arm64)` and build.
+1. Open `Template.xcodeproj` in Xcode.
+2. Under `Targets`, click on `Template` then `Build Settings` and under `Signing` change the `Development Team` to yours 
+4. Set target to `Any iOS Device (arm64)` and build.
 
