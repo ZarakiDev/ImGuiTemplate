@@ -6,7 +6,8 @@ A lightweight and easy to use **ImGui floating menu template** for iOS, designed
 
 ## Features
 
-- Floating ImGui menu with multitouch support  
+- Floating ImGui menu with multitouch support
+- Automatic saving of variables defined within the Settings class (Settings.h)
 - Cross-compatibility:
   - **Theos**: supports C++20 and below  
   - **Xcode**: supports C++23 and below  
